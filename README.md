@@ -4,6 +4,6 @@
 1. Exibir a agenda;
 2. Adicionar Contato;
 3. Excluir Contato;
-4. Buscar Contato;
+4. Buscar Contato
 
 ### Todas as operações são realizadas conforme a vontade do usuário e quantas vezes forem necessárias.
